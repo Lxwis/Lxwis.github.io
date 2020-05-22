@@ -1,6 +1,7 @@
 iframe{
-	transparent;
 	z-index: 2;
+	position: relative;
+	display: inline-block;
 }
 img{
 	position: absolute;
